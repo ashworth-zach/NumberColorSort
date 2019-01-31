@@ -1,0 +1,11 @@
+C:\Users\henry\Desktop\SaltusTechAssignment\bin\Debug\netcoreapp2.1\SaltusTechAssignment.deps.json
+C:\Users\henry\Desktop\SaltusTechAssignment\bin\Debug\netcoreapp2.1\SaltusTechAssignment.runtimeconfig.json
+C:\Users\henry\Desktop\SaltusTechAssignment\bin\Debug\netcoreapp2.1\SaltusTechAssignment.runtimeconfig.dev.json
+C:\Users\henry\Desktop\SaltusTechAssignment\bin\Debug\netcoreapp2.1\SaltusTechAssignment.dll
+C:\Users\henry\Desktop\SaltusTechAssignment\bin\Debug\netcoreapp2.1\SaltusTechAssignment.pdb
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.csprojAssemblyReference.cache
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.csproj.CoreCompileInputs.cache
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.AssemblyInfoInputs.cache
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.AssemblyInfo.cs
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.dll
+C:\Users\henry\Desktop\SaltusTechAssignment\obj\Debug\netcoreapp2.1\SaltusTechAssignment.pdb
